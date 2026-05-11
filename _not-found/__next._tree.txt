@@ -1,0 +1,2 @@
+:HL["/Juliana-moura-test2/_next/static/chunks/142edb~mtmpcy.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Jfhh-Y_Z4gX38UcDb1u_1"}
