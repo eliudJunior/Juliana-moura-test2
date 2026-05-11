@@ -1,6 +1,10 @@
-:HL["/Juliana-moura-test2/_next/static/chunks/142edb~mtmpcy.css","style"]
+:HL["/Juliana-moura-test2/_next/static/chunks/0k4fpnn462is~.css","style"]
 :HL["/Juliana-moura-test2/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/Juliana-moura-test2/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/Juliana-moura-test2/_next/static/media/8a4bb24664ac8500-s.p.0yjesinu1g_v..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/Juliana-moura-test2/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"WlOTFA-oeUQV_JJP54YbK"}
+:HL["https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&q=80&w=1974","image"]
+:HL["https://images.unsplash.com/photo-1522337660859-02fbefca4702?auto=format&fit=crop&q=80&w=1000","image"]
+:HL["https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&q=80&w=1000","image"]
+:HL["https://images.unsplash.com/photo-1595152772835-219674b2a8a6?auto=format&fit=crop&q=80&w=1000","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"OwQv-Veg98VTZCskodQRB"}
